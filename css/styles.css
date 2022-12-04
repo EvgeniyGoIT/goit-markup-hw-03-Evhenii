@@ -341,7 +341,6 @@ a {
         flex-wrap: wrap;
     }
     .portfolio-list .item {
-        display: block;
         margin-right: 26px;
         margin-bottom: 30px;
         border: 1px solid #EEEEEE;
